@@ -4,4 +4,4 @@ Git has a mutadle index called stage
 Git tracks changes of files
 thankyou
 Creating a new branch is quick nihao
-Creating a new branch is quick and simple
+Creating a easy branch is quick and simple
